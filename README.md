@@ -1,4 +1,4 @@
-# Raman Plastic Detector
+# Raman Hyperspectral CNN for Microplastic Detection in Human Blood
 
 A deep learning-based application for detecting microplastics in blood samples using Raman spectroscopy. This project uses a U-Net architecture to segment and classify plastic particles from hyperspectral Raman cube data.
 
@@ -136,29 +136,6 @@ Each detected plastic type includes:
 4. **Physical Characterization**: Automatic lookup of material properties
 5. **Synthetic Data Generation**: Built-in dataset generator for training and testing
 
-## 📝 Notes
-
-- The model requires pre-trained weights (`raman_model.pth`) for inference
-- Sample data must be organized in the expected directory structure
-- Raman cubes must be normalized and properly formatted (128×128×100)
-
-## 🔮 Future Enhancements
-
-- Expand plastic type classification beyond 5 categories
-- Implement concentration quantification
-- Add batch processing capabilities
-- Integrate real-time microscope data acquisition
-- Export detailed analysis reports
-
-## 📄 License
-
-[Add your license information here]
-
-## 👥 Contributors
-
-[Add contributor information here]
-
-## 📧 Contact
 
 [Add contact information here]
 
