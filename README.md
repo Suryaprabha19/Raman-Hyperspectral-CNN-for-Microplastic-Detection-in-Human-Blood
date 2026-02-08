@@ -136,9 +136,3 @@ Each detected plastic type includes:
 4. **Physical Characterization**: Automatic lookup of material properties
 5. **Synthetic Data Generation**: Built-in dataset generator for training and testing
 
-
-[Add contact information here]
-
----
-
-**Note**: This project is designed for research and educational purposes in microplastic detection using Raman spectroscopy.
